@@ -15,12 +15,12 @@
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, Cosplay and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently studying software engineering. Four years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **📊 Github Stats**
