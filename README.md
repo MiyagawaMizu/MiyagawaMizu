@@ -9,13 +9,14 @@
 <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
-### Hi!👋 I'm Mizu🍊
+### Hi!👋 I'm Mizu🎀
+My full name is Miyagawa Mizu :3.
 
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, Cosplay and sometimes tinkering with random stuff like coding.
+I'm a Hikikomori and NEET, and my hobbies include playing games, watching anime, reading manga, cosplaying, listening to music, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
