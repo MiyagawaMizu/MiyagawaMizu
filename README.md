@@ -10,7 +10,6 @@
 
 
 ### Hi!👋 I'm Mizu🎀
-My full name is Miyagawa Mizu :3.
 
 **Weeb Developer and Gamer** 
 
