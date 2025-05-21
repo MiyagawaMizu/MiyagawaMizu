@@ -12,7 +12,7 @@
 
 ### Hi!👋 I'm Mizu🎀
 
-**Coser and Gamer** 
+**Gamer** 
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
