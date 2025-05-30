@@ -8,7 +8,7 @@
 *SUPER UNEMPLOYED OHIO FINAL BOSS*
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="130" src="./images/marin_kya.webp"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
 - Name: **Mizu, 小喵** 
 - Residing in: **Vietnam**
 - Pronouns: **Xiǎo Miāo**
