@@ -9,10 +9,10 @@
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
-- Name: **Mizu, 小喵** 
+- Name: **Mizu** 
 - Residing in: **Vietnam**
-- Pronouns: **Xiǎo Miāo**
-- Hoobies: **Cosplay, Playing Games**
+- Pronouns: **🏍️**
+- Hobbies: **Cosplay, Playing Games, Driving with Sportbike**
 - Work: **UNEMPLOYED**
 - Language: **Vietnamese, English**
 <br><br>
