@@ -11,7 +11,6 @@
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
 - Name: **Mizu** 
 - Residing in: **Vietnam**
-- Pronouns: **🏍️**
 - Hobbies: **Cosplay, Playing Games, Driving with Sportbike**
 - Work: **UNEMPLOYED**
 - Language: **Vietnamese, English**
