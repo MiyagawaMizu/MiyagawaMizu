@@ -33,18 +33,18 @@
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="35%"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
 </p> -->
 
-<!-- ## **🧋Cutie Counter** -->
+## **🧋Cutie Counter**
 <!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
+	<img src="https://count.getloli.com/@miyagawamizu?theme=moebooru-h"> <br/>
 </p> -->
-<!-- <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://count.getloli.com/@miyagawamizu?name=miyagawamizu&theme=rule34&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro.png"></a>
+<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://count.getloli.com/@miyagawamizu?name=miyagawamizu&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0"></a>
+<!-- <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro.png"></a> -->
 
 ```yaml
 People who visit my profile :3.
 
 Hehe~ another cutie has been caught.
-``` -->
+```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/img_2.webp" /></a>
