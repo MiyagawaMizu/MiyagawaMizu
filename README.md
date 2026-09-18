@@ -12,7 +12,7 @@
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/img_1.webp"></a>
 - Name: **Mizu** 
 - Residing in: **Vietnam**
-- Hobbies: **Playing Games, Driving with Sportbike**
+- Hobbies: **Playing Games, Driving Sportbike**
 - Work: **UNEMPLOYED**
 - Language: **Vietnamese, English**
 <br><br>
